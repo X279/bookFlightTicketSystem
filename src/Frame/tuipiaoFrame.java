@@ -187,7 +187,7 @@ public class tuipiaoFrame extends JFrame{
 		label.setBounds(47, 366, 81, 21);
 		contentPane.add(label);
 		
-		name = new JTextField("刘可欣");
+		name = new JTextField("xxx");
 		name.setFont(new Font("楷体",Font.PLAIN,17));
 		name.setBounds(148, 363, 450, 27);
 		contentPane.add(name);
@@ -199,7 +199,7 @@ public class tuipiaoFrame extends JFrame{
 		label_1.setBounds(47, 421, 81, 21);
 		contentPane.add(label_1);
 		
-		idNum = new JTextField("421022200011027625");
+		idNum = new JTextField("xxxxxxxxxxxxxxx");
 		idNum.setFont(new Font("楷体",Font.PLAIN,17));
 		idNum.setBounds(148, 418, 450, 27);
 		contentPane.add(idNum);
